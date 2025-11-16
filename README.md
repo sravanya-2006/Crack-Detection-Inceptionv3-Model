@@ -40,8 +40,20 @@ Acknowledgements
 This dataset is taken from the website Mendeley Data - Crack Detection, contributed by Çağlar Fırat Özgenel.
 
 ---
-📋 Note:-
+## 🔖 How to download the model
 
-* Use Tensorflow to load the crack_detection.h5 model.
+Download and Use the Model
+
+The crack detection model (crack_detection.h5) is a large file stored on Hugging Face.
+
+How to download the model
+
+Run the Python script (download_model.py) in Colab or any Python environment you prefer.
+This script will automatically download the model file from Hugging Face.
+
+The download_model.py script also shows how to load the model after downloading.
+
+
+
 
 
