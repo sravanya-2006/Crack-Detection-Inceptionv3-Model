@@ -39,4 +39,9 @@ The datasets contains images of various concrete surfaces with and without crack
 Acknowledgements
 This dataset is taken from the website Mendeley Data - Crack Detection, contributed by Çağlar Fırat Özgenel.
 
+---
+📋 Note:-
+
+* Use Tensorflow to load the crack_detection.h5 model.
+
 
