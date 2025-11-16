@@ -1,4 +1,4 @@
-# 🧠 Concrete Crack Detection Using InceptionV3
+## 🧠 Concrete Crack Detection Using InceptionV3
 
 Crack Detection in Concrete Surfaces Using Deep Learning
 This repository contains the clean and optimized TensorFlow/Keras implementation of a crack detection system for concrete structures using the InceptionV3 convolutional neural network. The model is trained to classify high-resolution images of concrete surfaces as Crack or No-Crack, enabling accurate structural health monitoring for bridges, buildings, and civil infrastructure.
@@ -9,7 +9,7 @@ but upgraded with transfer learning, improved preprocessing, and a lightweight i
 
 ---
 
-# 📌 Features
+## 📌 Features
 
 - ✔ Transfer learning with *InceptionV3*
 - ✔ High accuracy crack / no-crack classification
@@ -20,13 +20,13 @@ but upgraded with transfer learning, improved preprocessing, and a lightweight i
 
 ---
 
-# 📦 Dependencies required:-
+## 📦 Dependencies required
 
 TensorFlow/Keras, SimpleITK, Dataset - The dataset can be downloaded or use the dataset using Kaggle api keys from this link- https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 
 ---
 
-# 📊 Dataset:-
+## 📊 Dataset
 
 Surface Crack Detection Dataset
 
